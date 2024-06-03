@@ -328,7 +328,7 @@ The following Screenshot will give a clear understading of above syntax for crea
 
 Once after creating the Source Notebook using otter-grader we need to generate a Student facing notebook where students can complete the assignment. To generate Student facing notebook use the command “**otter assign**“ 
 
-```command : **otter assign demo.ipynb dist** ```
+```command : otter assign demo.ipynb dist ```
 
 Now let’s break down the command. It has 3 sections as highlighted above in the command
 
